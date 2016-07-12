@@ -12,7 +12,7 @@ npm install big-mouse-particles
 
 ## Example
 
-Take a look at this working [demo](https://big-mouse.github.io/examples) or check the example [source code](https://github.com/big-mouse/examples/blob/master/examples/home/index.js) below.
+Take a look at this working [demo](https://big-mouse.github.io/examples) or check the example [source code](https://github.com/big-mouse/examples/blob/gh-pages/examples/home/index.js) below.
 
 ```js
 // using npm (CommonJS)
