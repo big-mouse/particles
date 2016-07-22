@@ -4,4 +4,4 @@ test
 *.log
 .DS_STORE
 npm-debug.log
-big-mouse-particles-0.0.1.tgz
+bigmouse-particles-*.tgz

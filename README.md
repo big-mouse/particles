@@ -7,7 +7,7 @@ A cheese plugin for [Big Mouse](https://github.com/big-mouse/core)
 This provides beautiful particles visualizations for your data sources. Available axis are common properties as number of particles, size, color, and radius. Other possible properties coming soon are speed, brightness or distortion.
 
 ```bash
-npm install big-mouse-particles
+npm install bigmouse-particles
 ```
 
 ## Example
@@ -16,8 +16,8 @@ Take a look at this working [demo](https://big-mouse.github.io/examples) or chec
 
 ```js
 // using npm (CommonJS)
-import BigMouse form 'big-mouse';
-import BigMouseParticles from 'big-mouse-particles';
+import BigMouse form 'bigmouse';
+import BigMouseParticles from 'bigmouse-particles';
 ```
 
 Then use like this:
