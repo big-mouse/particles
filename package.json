@@ -1,6 +1,6 @@
 {
   "name": "bigmouse-particles",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A cheese plugin for Big Mouse",
   "author": "Zuri Pabon (@tsurshaddai)<zurisadai.pabon@gmail.com>",
   "license": "MIT",
@@ -15,6 +15,7 @@
     "babel-core": "^6.9.1",
     "babel-loader": "^6.2.4",
     "babel-preset-es2015": "^6.9.0",
+    "lodash": "^4.14.1",
     "tape": "^3.0.3",
     "webpack": "^1.13.1"
   },
